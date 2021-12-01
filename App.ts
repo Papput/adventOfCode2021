@@ -1,1 +1,1 @@
-console.log('hello world')
+import './calendar/day1/second';
